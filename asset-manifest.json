@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ab9522f2.chunk.css",
-    "main.js": "/Portfolio/static/js/main.83aba1b0.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.83aba1b0.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.38a6cb8d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.38a6cb8d.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.b162dde3.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b162dde3.js.map",
     "static/js/2.ba1c08d5.chunk.js": "/Portfolio/static/js/2.ba1c08d5.chunk.js",
@@ -13,7 +13,11 @@
     "static/css/main.ab9522f2.chunk.css.map": "/Portfolio/static/css/main.ab9522f2.chunk.css.map",
     "static/js/2.ba1c08d5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ba1c08d5.chunk.js.LICENSE.txt",
     "static/media/MERN.b9ec326c.png": "/Portfolio/static/media/MERN.b9ec326c.png",
-    "static/media/Mustafa-Essam-CV.9f0b0e67.pdf": "/Portfolio/static/media/Mustafa-Essam-CV.9f0b0e67.pdf",
+    "static/media/Mustafa-Essam-CV.f21f6039.pdf": "/Portfolio/static/media/Mustafa-Essam-CV.f21f6039.pdf",
+    "static/media/art1.a25d583a.png": "/Portfolio/static/media/art1.a25d583a.png",
+    "static/media/art2.03fcae8e.png": "/Portfolio/static/media/art2.03fcae8e.png",
+    "static/media/art3.674fd22a.png": "/Portfolio/static/media/art3.674fd22a.png",
+    "static/media/art4.ddec8b77.png": "/Portfolio/static/media/art4.ddec8b77.png",
     "static/media/eagle1.a49ea1c3.png": "/Portfolio/static/media/eagle1.a49ea1c3.png",
     "static/media/eagle2.0f29becb.png": "/Portfolio/static/media/eagle2.0f29becb.png",
     "static/media/eagle3.15712b89.png": "/Portfolio/static/media/eagle3.15712b89.png",
@@ -37,6 +41,6 @@
     "static/js/runtime-main.b162dde3.js",
     "static/js/2.ba1c08d5.chunk.js",
     "static/css/main.ab9522f2.chunk.css",
-    "static/js/main.83aba1b0.chunk.js"
+    "static/js/main.38a6cb8d.chunk.js"
   ]
 }
